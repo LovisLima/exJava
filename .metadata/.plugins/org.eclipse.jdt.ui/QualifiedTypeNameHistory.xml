@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ClasseProfissional.Profissional"/>
+    <fullyQualifiedTypeName name="Certificacoes.Certificado"/>
+    <fullyQualifiedTypeName name="Creditacao.Acreditado"/>
+    <fullyQualifiedTypeName name="negocio.Cliente"/>
+    <fullyQualifiedTypeName name="roxo.Provedor"/>
+    <fullyQualifiedTypeName name="apresentacao.logica.Validacao"/>
+    <fullyQualifiedTypeName name="negocio.Componente"/>
+    <fullyQualifiedTypeName name="negocio.Constante"/>
+    <fullyQualifiedTypeName name="estoque.Peca"/>
+    <fullyQualifiedTypeName name="estoque.Container"/>
+    <fullyQualifiedTypeName name="crm.Proprietario"/>
+    <fullyQualifiedTypeName name="estoque.Item"/>
+    <fullyQualifiedTypeName name="crm.Empresa"/>
+    <fullyQualifiedTypeName name="equipe.Piloto"/>
+    <fullyQualifiedTypeName name="oficina.Carro"/>
+    <fullyQualifiedTypeName name="vendas.Pedido"/>
+    <fullyQualifiedTypeName name="crm.Cliente"/>
+    <fullyQualifiedTypeName name="frota.Veiculo"/>
+    <fullyQualifiedTypeName name="transporte.Motorista"/>
+    <fullyQualifiedTypeName name="frota.Autorizacao"/>
+    <fullyQualifiedTypeName name="rh.Funcionario"/>
+    <fullyQualifiedTypeName name="recursos.Remedio"/>
+    <fullyQualifiedTypeName name="recursos.Arma"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentMap"/>
+    <fullyQualifiedTypeName name="lazer.Lado"/>
+    <fullyQualifiedTypeName name="elemento.Maquina"/>
+</qualifiedTypeNameHistroy>
